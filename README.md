@@ -8,7 +8,9 @@
 
 ### 👨‍💻 Embedded Developer | 🌐 IoT Hobbyist | 🤖 AI Enthusiast | 🎵 Music Lover | 🚴‍♂️ Bike & Travel | ☕ Coffee  
 
-Passionate about building smart embedded systems, developing secure and efficient firmware, and making tech more scalable & sustainable. 
+- Passionate about building smart Embedded systems
+- Developing secure and efficient firmware
+- Making tech more scalable, sustainable & efficient
 
 ---
 
@@ -47,7 +49,6 @@ Passionate about building smart embedded systems, developing secure and efficien
 ![Inductors](https://img.shields.io/badge/Component-Inductors-green)
 ![Diodes](https://img.shields.io/badge/Component-Diodes-red)
 ![Transistors](https://img.shields.io/badge/Component-Transistors-yellow)
-![Op-Amps](https://img.shields.io/badge/Component-Op--Amps-purple)
 ![Microcontrollers](https://img.shields.io/badge/Component-Microcontrollers-orange)
 ![Sensors](https://img.shields.io/badge/Component-Sensors-blue)
 ![Relays](https://img.shields.io/badge/Component-Relays-black)
@@ -55,6 +56,7 @@ Passionate about building smart embedded systems, developing secure and efficien
 
 ### 🔹 Data Analysis  
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?style=flat&logo=microsoftexcel&logoColor=white)
+![SPSS](https://img.shields.io/badge/Tool-SPSS-green?style=flat&logo=microsoftexcel&logoColor=white)
 
 ### 🔹 Programming  
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
